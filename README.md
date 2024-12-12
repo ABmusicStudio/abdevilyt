@@ -27,7 +27,7 @@ After that follow the below steps to activate it.
 
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
-*`iex(irm is.gd/idm_reset)`
+* iex(irm is.gd/ab_reset)
 * You will see the activation options, follow the on-screen instructions.
 * That’s all.
 
@@ -35,7 +35,7 @@ After that follow the below steps to activate it.
 
 * Download the file from [GitHub](https://github.com/lstprjct/IDM-Activation-Script/archive/refs/heads/main.zip)
 * Right-click on the downloaded zip file and extract
-* In the extracted folder, run the file named `IAS.cmd`
+* In the extracted folder, run the file named `ABIAS.cmd`
 * You will see the activation options, and follow onscreen instructions.
 * That’s all.
 
